@@ -29,10 +29,10 @@ input {
 
 .signin-signup {
   position: absolute;
-  top: 30%;
-  transform: translate(-40%, -40%);
+  top: 50%;
+  transform: translate(-50%, -500%);
   left: 75%;
-  width: 40%;
+  width: 50%;
   transition: 1s 0.7s ease-in-out;
   display: grid;
   grid-template-columns: 1fr;
